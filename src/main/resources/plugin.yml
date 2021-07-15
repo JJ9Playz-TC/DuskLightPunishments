@@ -1,0 +1,6 @@
+name: DusklightPunishments
+version: ${project.version}
+main: me.jaydusk.dusklightpunishments.DusklightPunishments
+api-version: 1.17
+authors: [ JayDusk ]
+description: A GUI based Punishment Plugin
